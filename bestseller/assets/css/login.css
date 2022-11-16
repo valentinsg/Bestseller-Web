@@ -1,0 +1,73 @@
+.body_login {
+    align-items: center;
+    background-color: #fff;
+    border: none;
+    border-radius: 25px;
+    box-shadow: 0 6px 12px rgb(0 0 0 / 10%), 0 16px 26px rgb(0 0 0 / 10%);
+    box-sizing: border-box;
+    margin: 40px 0 0;
+    margin-right: 15px;
+    padding: 14px 0 14px;
+    width: 425px;
+}
+
+h3{
+    color: #2a92fd; 
+    font-style: italic;
+}
+
+.placeholders_data{
+    outline: none;
+    padding: 14px;
+    display: block;
+    width: 390px;
+    border-radius: 10px;
+    border: 1px solid #eee;
+    margin: 18px auto;
+}
+.subtitle_birthday{
+    display: flex;
+    justify-content: start;
+    margin-left: 20px;
+    color: #2a92fd;
+}
+
+.select_birthday{
+    outline: none;
+    padding: 14px;
+    display: inline-block;
+    width: 125px;
+    border-radius: 15px;
+    border: 1px solid #eee;
+    margin: 5px auto;
+}
+
+.submit_form{
+    padding: 14px;
+    color: aliceblue;
+    background-color: #2a92fd;
+    width: 335px;
+    margin: 20px auto;
+    margin-top: 5;
+    border: 0;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.submit_form:hover {
+    background-color: #5aaaf5;
+}
+
+.btn_session{
+    padding: 14px;
+    color: aliceblue;
+    background-color: rgb(24, 172, 24);
+    width: 205px;
+    margin: auto;
+    border: 0;
+    cursor: pointer;
+}
+
+.btn_session:hover{
+    background-color: #5aaaf5;
+}

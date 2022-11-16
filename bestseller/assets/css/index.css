@@ -1,0 +1,40 @@
+.body_index{
+    background-color: aliceblue;
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.introduction_container{
+    vertical-align: top;
+    margin-top: 265px;
+    line-height: 46px;
+    max-width: 860px;
+}
+
+.introduction_logo{
+    margin-left: -24px;
+}
+
+.introduction{
+    font-size: 38px;
+    text-shadow: 10px cadetblue;
+}
+
+.signup_container{
+    margin-top: 105px;
+}
+
+.btn_session{
+    padding: 14px;
+    color: aliceblue;
+    background-color: rgb(24, 172, 24);
+    width: 205px;
+    margin: auto;
+    border: 0;
+    cursor: pointer;
+}
+
+.btn_session:hover{
+    background-color: #5aaaf5;
+}
